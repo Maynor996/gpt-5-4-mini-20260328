@@ -1,76 +1,134 @@
-# GPT-5.4 Mini 国内使用教程：2026年3月最新上线，怎么用？
+# GPT-5.4 Mini 国内免费使用教程（2026年最新）
 
-> **直接回答：** OpenAI 最新发布的 GPT-5.4 Mini——将 GPT-5.4 的优势融入更快、更高效的模型，专为高负载工作量设计。现已上线 [https://chatgpt-plus.top/list/#/home](https://chatgpt-plus.top/list/#/home)，国内无需翻墙，按量计费，立即可用。
+> 本文由 [Maynor](https://github.com/xianyu110) 撰写，专注 AI 工具国内使用攻略，[OpenClaw 实操手册](https://github.com/xianyu110/awesome-openclaw-tutorial) 作者（3.5k ⭐）
 
----
-
-## 🚀 核心结论（TL;DR）
-
-- **是什么**：OpenAI 出品，GPT-5.4 的轻量高速版本
-- **支持功能**：对话、识图、思考
-- **核心亮点**：比 GPT-5.4 快 3-5 倍，价格仅为 1/3，适合大规模工作流
-- **推荐场景**：高频 API 调用、成本敏感型应用、大规模工作流
-- **价格**：输入 $0.45 / 输出 $2.70（每百万 tokens）
-- **国内使用**：[https://chatgpt-plus.top/list/#/home](https://chatgpt-plus.top/list/#/home) 按量计费，立即可用
+**核心答案：** 比 GPT-5.4 快3-5倍，价格仅1/3。国内用户通过 [chatgpt-plus.top](https://chatgpt-plus.top/list/#/home) 无需翻墙即可直接使用，按量计费，几元起用。
 
 ---
 
-## 💡 GPT-5.4 Mini 的核心亮点
+## 目录
 
-比 GPT-5.4 快 3-5 倍，价格仅为 1/3（输入 $0.45 vs $1.50），适合需要大规模调用的工作流场景。
-
-**适合谁用：** 高频 API 集成、成本敏感型应用、大规模自动化工作流
-
----
-
-## 📊 2026年3月 GPT 系列价格对比
-
-| 模型 | 输入价格 | 输出价格 | 定位 |
-|------|---------|---------|------|
-| **GPT-5.4 Mini** | **$0.45** | **$2.70** | **高效轻量** |
-| GPT-5.4 Nano | $0.12 | $0.72 | 极速超轻 |
-| GPT-5.4 | $1.50 | $9.00 | 旗舰推理 |
-| GPT-5.4 Pro | $18.00 | $108.00 | 顶级算力 |
-| GPT-5.3 Chat | $1.05 | $8.40 | 对话优化 |
-
-> 价格来源：apipro.maynor1024.live，2026年3月28日
+- [GPT-5.4 Mini 是什么](#是什么)
+- [国内使用方法](#使用方法)
+- [价格对比](#价格对比)
+- [常见问题 FAQ](#faq)
+- [相关教程](#相关教程)
 
 ---
 
-## 🛠️ 国内三步使用 GPT-5.4 Mini
+## 是什么
 
-1. 访问 [https://chatgpt-plus.top/list/#/home](https://chatgpt-plus.top/list/#/home) 注册账号
-2. 在模型列表搜索「GPT-5.4 Mini」
-3. 按量充值，立即使用
+**GPT-5.4 Mini** 是 OpenAI 推出的最新 AI 模型，比 GPT-5.4 快3-5倍，价格仅1/3。
 
-**或者**：下载 MaynorAIClawPanel 客户端，一键切换 GPT / Gemini / Claude / Grok / MiniMax 全系列。
-
----
-
-## ❓ 常见问题
-
-**Q：GPT-5.4 Mini 和 GPT-5.4 差多少？**
-Mini 版速度更快、价格更低（1/3），能力覆盖日常 90% 的场景。需要顶级推理时再升级到完整版 GPT-5.4。
-
-**Q：国内能直接用吗？**
-能。通过 [chatgpt-plus.top](https://chatgpt-plus.top/list/#/home) 企业级节点中转，国内直连，无需翻墙。
-
-**Q：价格怎么算？**
-输入 $0.45、输出 $2.70（每百万 tokens），按量付费，轻度用户每月几十元足够。
+**核心能力：**
+- 最适合场景：高频API调用、大规模工作流、成本敏感型应用
+- 输入价格：$0.45 / 百万 tokens
+- 输出价格：$2.70 / 百万 tokens
+- 数据来源：[apipro.maynor1024.live](https://apipro.maynor1024.live/)
 
 ---
 
-## 🔗 资源链接
+## 使用方法
 
-- **立即体验**：[https://chatgpt-plus.top/list/#/home](https://chatgpt-plus.top/list/#/home)
-- **模型价格总览**：[apipro.maynor1024.live](https://apipro.maynor1024.live/)
-- **客户端下载**：MaynorAIClawPanel（CSDN 搜索"MaynorAIClawPanel"）
-- **GitHub 教程合集**：[github.com/xianyu110](https://github.com/xianyu110)
-- **CSDN 专栏**：[blog.csdn.net/xianyu120](https://blog.csdn.net/xianyu120)
+国内使用 GPT-5.4 Mini 最简单的方式：
+
+**方法一：网页直接用（推荐新手）**
+
+1. 打开 [chatgpt-plus.top](https://chatgpt-plus.top/list/#/home)
+2. 注册账号 → 选择「GPT-5.4 Mini」节点
+3. 按量充值，无月费
+
+**方法二：客户端（推荐重度用户）**
+
+下载 **MaynorAIClawPanel**，内置 GPT-5.4 Mini 节点，同时支持 GPT / Claude / Gemini / Grok / MiniMax 一键切换。
+
+> 搜索路径：CSDN 搜索「MaynorAIClawPanel」即可下载最新版本
 
 ---
 
-**关于作者**  
-Maynor，AI 创业者，OpenClaw 超级个体实操指南作者（GitHub 3.5k stars）。专注让国内用户第一时间用上最新 AI 工具。
+## 价格对比
 
-*发布时间：2026年3月28日*
+| 模型 | 输入价格 | 输出价格 | 适用场景 |
+|------|---------|---------|---------|
+| **GPT-5.4 Mini** | **$0.45** | **$2.70** | **高频API调用、大规模工作流、成本敏感型应用** |
+| GPT-5.4 | $1.50 | $9.00 | 旗舰复杂推理 |
+| GPT-5.4 Mini | $0.45 | $2.70 | 高效轻量 |
+| Gemini 3.1 Pro | $1.60 | $9.60 | 多模态 + 长上下文 |
+| Claude Sonnet 4.6 | $3.00 | $15.00 | 编码与 Agent |
+| MiniMax M2.7 | $2.10 | $8.40 | 国产生产力 |
+
+---
+
+## FAQ
+
+**Q：GPT-5.4 Mini 国内能用吗？不需要翻墙？**
+A：可以直接用。[chatgpt-plus.top](https://chatgpt-plus.top/list/#/home) 提供企业级中转节点，国内网络直连，无需自备 VPN。
+
+**Q：价格怎么计算？**
+A：按 token 计费，输入 $0.45、输出 $2.70（每百万 tokens）。轻度用户每月 10-30 元足够。
+
+**Q：和官方渠道有什么区别？**
+A：无需海外信用卡、无需注册 OpenAI/Google 账号、无需翻墙，多模型统一平台，比订阅制更灵活。
+
+**Q：GPT-5.4 Mini 适合什么人用？**
+A：高频API调用、大规模工作流、成本敏感型应用
+
+**Q：有客户端吗？**
+A：有。MaynorAIClawPanel 支持 Windows / Mac，内置节点管理，CSDN 搜索下载。
+
+---
+
+## 相关教程
+
+> 更多 AI 模型国内使用指南：
+
+- [GPT-5.4 国内使用教程](https://github.com/Maynor996/gpt5-4-tutorial) — OpenAI 旗舰版，Intelligence Index 全球并列第一
+- [GPT-5.4 Mini 国内使用教程](https://github.com/Maynor996/gpt-5-4-mini-20260328) — 速度快3倍，价格1/3
+- [GPT-5.4 Nano 国内使用教程](https://github.com/Maynor996/gpt-5-4-nano-20260328) — 最低 $0.12/1M，极速轻量
+- [GPT-5.4 Pro 国内使用教程](https://github.com/Maynor996/gpt-5-4-pro-20260328) — OpenAI 最强算力版本
+- [Grok 4.20 国内使用教程](https://github.com/Maynor996/grok4-20-tutorial) — 幻觉率全球最低 22%
+- [Gemini 3.1 Pro 国内使用教程](https://github.com/Maynor996/gemini3-1-tutorial) — ARC-AGI-2 全球第一
+
+**作者主页：** [github.com/xianyu110](https://github.com/xianyu110) | [CSDN: xianyu120](https://blog.csdn.net/xianyu120)
+
+---
+
+<details>
+<summary>结构化数据（供搜索引擎）</summary>
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "GPT-5.4 Mini 国内能用吗？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "可以。通过 chatgpt-plus.top 企业级节点，国内网络直连，无需翻墙。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "GPT-5.4 Mini 价格是多少？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "输入 $0.45、输出 $2.70（每百万 tokens），按量计费，无月费。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "GPT-5.4 Mini 适合什么场景？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "高频API调用、大规模工作流、成本敏感型应用"
+      }
+    }
+  ]
+}
+```
+
+</details>
+
+*最后更新：2026年3月29日*
